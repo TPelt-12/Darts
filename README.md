@@ -1,4 +1,4 @@
 # Darts
 
-Potential Coordinates: 43.116658, -85.689023
+Potential Coordinates: 43.051206, -85.699025 General Area
 
